@@ -162,6 +162,17 @@ footer{
     padding: 8px 32px;
 }
 
+
+footer a{
+    text-decoration: none;
+    font-size: 24px;
+    color: white;
+    margin-top: auto;
+    margin-bottom: auto;
+
+
+}
+
 footer a:hover{
     cursor: pointer;
     color: #e7e7e7;
