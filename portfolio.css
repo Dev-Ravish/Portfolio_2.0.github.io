@@ -162,6 +162,15 @@ footer{
     padding: 8px 32px;
 }
 
+footer a:hover{
+    cursor: pointer;
+    color: #e7e7e7;
+}
+
+footer a:active{
+    color: #c2c2c2;
+}
+
 span{
    color: #FF0707;
 }
